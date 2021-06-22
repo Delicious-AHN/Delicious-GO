@@ -1,6 +1,6 @@
 package function
 
-func varcons() {
+func Varcons() {
 	var a int = 2
 	a += 2
 	b := 3
