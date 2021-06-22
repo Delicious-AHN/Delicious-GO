@@ -6,4 +6,6 @@ func main() {
 	println("Hello World")
 	function.Datatyp()
 	function.Varcons()
+	function.IfSwitch()
+	function.Iter()
 }
