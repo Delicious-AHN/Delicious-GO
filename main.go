@@ -8,4 +8,8 @@ func main() {
 	function.Varcons()
 	function.IfSwitch()
 	function.Iter()
+	function.Func_example()
+	function.Slice()
+	function.Map()
+	function.Stru()
 }
