@@ -1,6 +1,10 @@
 package main
 
-import "github.io/Delicious-Ahn/Learning/function"
+import (
+	"runtime"
+
+	"github.io/Delicious-Ahn/Learning/function"
+)
 
 func main() {
 	println("Hello World")
@@ -12,4 +16,8 @@ func main() {
 	function.Slice()
 	function.Map()
 	function.Stru()
+	function.Method()
+	runtime.GOMAXPROCS(3)
+	function.Go_routine()
+	function.Go_channel()
 }
