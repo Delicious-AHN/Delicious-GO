@@ -1,6 +1,5 @@
 package learning
 
-func main {
-	fmt.Println("Hello World")
-	fmt.Println("Hello World")
+func main() {
+	println("Hello World")
 }
