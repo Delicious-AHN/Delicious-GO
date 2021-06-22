@@ -1,6 +1,6 @@
-package main
+package function
 
-func var_cons() {
+func varcons() {
 	var a int = 2
 	a += 2
 	b := 3
